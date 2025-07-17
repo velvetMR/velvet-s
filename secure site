@@ -1,0 +1,11 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Cybersecurity Site</title>
+</head>
+<body>
+  <h1>Welcome to My Secure Cyber Portfolio</h1>
+  <p>This site is served over HTTPS using GitHub Pages.</p>
+</body>
+</html>
